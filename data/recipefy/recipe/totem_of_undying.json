@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "ABA",
+    "BCB",
+    " B "
+  ],
+  "key": {
+    "A": [
+      "minecraft:emerald"
+    ],
+    "B": [
+      "minecraft:gold_ingot"
+    ],
+    "C": [
+      "minecraft:gold_block"
+    ]
+  },
+  "result": {
+    "id": "minecraft:totem_of_undying"
+  }
+}

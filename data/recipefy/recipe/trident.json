@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " AA",
+    " BA",
+    "B  "
+  ],
+  "key": {
+    "A": [
+      "minecraft:quartz"
+    ],
+    "B": [
+      "minecraft:prismarine_shard"
+    ]
+  },
+  "ingredients": [
+    [
+      ""
+    ]
+  ],
+  "result": {
+    "id": "minecraft:trident"
+  }
+}

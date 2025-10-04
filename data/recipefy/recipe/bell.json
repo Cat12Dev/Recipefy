@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AAA",
+    "DBD",
+    "DCD"
+  ],
+  "key": {
+    "A": [
+      "minecraft:stick"
+    ],
+    "B": [
+      "minecraft:chain"
+    ],
+    "C": [
+      "minecraft:gold_block"
+    ],
+    "D": [
+      "stone"
+    ]
+  },
+  "result": {
+    "id": "minecraft:bell"
+  }
+}

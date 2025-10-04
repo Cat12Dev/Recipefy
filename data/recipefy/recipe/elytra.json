@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " C ",
+    "BAB",
+    "A A"
+  ],
+  "key": {
+    "A": [
+      "minecraft:phantom_membrane"
+    ],
+    "B": [
+      "minecraft:feather"
+    ],
+    "C": [
+      "minecraft:nether_star"
+    ]
+  },
+  "result": {
+    "id": "minecraft:elytra"
+  }
+}

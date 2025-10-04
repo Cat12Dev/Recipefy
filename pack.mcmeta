@@ -1,0 +1,75 @@
+{
+  "pack": {
+    "pack_format": 18,
+    "supported_formats": [7,88],
+    "description": "Recipefy"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": 7,
+        "directory": "1.17 – 1.17.1"
+      },
+      {
+        "formats": 8,
+        "directory": "1.18 – 1.18.1"
+      },
+      {
+        "formats": 9,
+        "directory": "1.18.2"
+      },
+      {
+        "formats": 10,
+        "directory": "1.19 – 1.19.3" 
+      },
+      {
+        "formats": 12,
+        "directory": "1.19.4"
+      },
+      {
+        "formats": 15,
+        "directory": "1.20 – 1.20.1"
+      },
+      {
+        "formats": 18,
+        "directory": "1.20.2"
+      },
+      {
+        "formats": 26,
+        "directory": "1.20.3-1.20.4"
+      },
+      {
+        "formats": 41,
+        "directory": "1.20.5-1.20.6"
+      },
+      {
+        "formats": 48,
+        "directory": "1.21 – 1.21.1"
+      },
+      {
+        "formats": 57,
+        "directory": "1.21.2 – 1.21.3"
+      },
+      {
+        "formats": 61,
+        "directory": "1.21.4"
+      },
+      {
+        "formats": 71,
+        "directory": "1.21.5"
+      },
+      {
+        "formats": 80,
+        "directory": "1.21.6"
+      },
+      {
+        "formats": 81,
+        "directory": "1.21.7 – 1.21.8"
+      },
+      {
+        "formats": 88,
+        "directory": "1.21.9"
+      }
+    ]
+  }
+}

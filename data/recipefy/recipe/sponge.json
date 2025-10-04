@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "ABA",
+    "BAB",
+    "ABA"
+  ],
+  "key": {
+    "A": [
+      "minecraft:yellow_wool"
+    ],
+    "B": [
+      "minecraft:string"
+    ]
+  },
+  "result": {
+    "id": "minecraft:sponge"
+  }
+}

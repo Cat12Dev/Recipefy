@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "A  ",
+    " B ",
+    "  C"
+  ],
+  "key": {
+    "A": [
+      "minecraft:string"
+    ],
+    "B": [
+      "minecraft:ink_sac"
+    ],
+    "C": [
+      "minecraft:paper"
+    ]
+  },
+  "result": {
+    "id": "minecraft:name_tag"
+  }
+}
